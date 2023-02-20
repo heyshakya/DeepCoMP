@@ -231,3 +231,8 @@ DeepCoMP is an outcome of a joint project between Paderborn University, Germany,
 </p>
 
 [Base station icon](https://thenounproject.com/search/?q=base+station&i=1286474) (used in rendered videos) by Clea Doltz from the Noun Project.
+
+## Our Work and Implementation
+
+I (Abhishek Singh Kushwaha, 19BEC001) and my teammate (Sriram Shivganesh, 19BEC043) implemented this python library and run experiments with different configurations and constraints on the agent and environment in the experiments. We implemented all three different approach that is discussed in the DeepCoMP paper. The project report and presentation are in the EC354CMCproject_report folder and the experiment results are in the EC354CMCexperiments folder.
+
